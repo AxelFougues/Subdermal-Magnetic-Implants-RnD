@@ -8,7 +8,7 @@ In turn understanding and figuring out how to control this phenomenon allowed me
 There was an attempt at publishing such research but a combination of deadlines, life events, lack of test subjects other than myself and the difficulty of dealing with academic "ethical standards" resulted in no publication and many subjects left open to explore.
 **Content of this this repo**
 
-[![Video demo](https://img.youtube.com/vi/g0kkDEj1v7M/0.jpg)](https://www.youtube.com/watch?v=g0kkDEj1v7M)
+
 
 ## SMIS: A unified ecosystem for SMI study and use
 Designing consumer facing and easy to use tools for anallyzing and using SMIs in a unified and comparable manner. This project aims at creating both the devices and the mobile app that allow for a wide range of finger-magnet stimulation.
