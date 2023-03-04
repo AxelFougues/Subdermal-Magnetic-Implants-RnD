@@ -12,6 +12,7 @@ One core focus is to provide the implantees with a unified testing procedure for
 A secondary goal is to discover and explore new uses for sensing by providing a convenient platform to do so. Some of these uses are sensory substitution through trainning, gamification of sensing (possibly spatial rendering of environments) and innovative human-machine interaction (notifications, gps directions... through sensing).
 
 Project page: https://www.behance.net/gallery/122871797/SMIS-Haptics-VR-and-Biohacking
+
 Unity project on github: https://www.behance.net/gallery/123152077/SMIS-CUBE
 
 ### A mobile app as a core
