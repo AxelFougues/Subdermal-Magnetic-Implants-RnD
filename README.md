@@ -15,6 +15,8 @@ Project page: https://www.behance.net/gallery/122871797/SMIS-Haptics-VR-and-Bioh
 
 Unity project on github: https://www.behance.net/gallery/123152077/SMIS-CUBE
 
+Wiki: https://github.com/AxelFougues/SMIS-device-design/wiki
+
 ### A mobile app as a core
 https://github.com/AxelFougues/SMIS-App
 
