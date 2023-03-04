@@ -1,0 +1,9 @@
+All current solutions involve a direct physical contact with the device in order to produce tactile stimuli (check for air displacement techniques).
+
+The vast majority of current solutions invole mechanichal systems with moving parts and seem to be limited by the miniaturisation of parts and the uneven nature of the body's surface.
+
+Those two concerns are theoreticaly completely eliminated with the magnetic field and SMI system.
+
+However some systems have a detailed surface resolution (ex: pin matrix) and are capable therefore of simulating a texture or a displacement that a SMI could not.
+
+leapmotion

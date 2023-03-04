@@ -1,0 +1,16 @@
+two alternatives air jet and ultrasound:
+
+air jet:
+-low resolution
+-bulky
+-slow
+-subject to obstructions
+
++easy/cheap
++longer range
+
+ultrasound:
+-short range
+-noise
+-(consumption)
+-(obstruction)

@@ -1,0 +1,1172 @@
+P:\SMIStim\SMIStim\Temp\Bin\Debug\Assembly-CSharp-firstpass.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\Assembly-CSharp-firstpass.pdb
+P:\SMIStim\SMIStim\Temp\Bin\Debug\Microsoft.CSharp.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\Microsoft.Win32.Primitives.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\mscorlib.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\netstandard.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\System.AppContext.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\System.Collections.Concurrent.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\System.Collections.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\System.Collections.NonGeneric.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\System.Collections.Specialized.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\System.ComponentModel.Annotations.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\System.ComponentModel.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\System.ComponentModel.EventBasedAsync.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\System.ComponentModel.Primitives.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\System.ComponentModel.TypeConverter.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\System.Console.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\System.Core.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\System.Data.Common.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\System.Data.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\System.Diagnostics.Contracts.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\System.Diagnostics.Debug.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\System.Diagnostics.FileVersionInfo.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\System.Diagnostics.Process.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\System.Diagnostics.StackTrace.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\System.Diagnostics.Tools.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\System.Diagnostics.TraceSource.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\System.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\System.Drawing.Primitives.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\System.Dynamic.Runtime.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\System.Globalization.Calendars.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\System.Globalization.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\System.Globalization.Extensions.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\System.IO.Compression.ZipFile.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\System.IO.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\System.IO.FileSystem.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\System.IO.FileSystem.DriveInfo.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\System.IO.FileSystem.Primitives.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\System.IO.FileSystem.Watcher.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\System.IO.IsolatedStorage.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\System.IO.MemoryMappedFiles.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\System.IO.Pipes.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\System.IO.UnmanagedMemoryStream.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\System.Linq.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\System.Linq.Expressions.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\System.Linq.Parallel.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\System.Linq.Queryable.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\System.Net.Http.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\System.Net.Http.Rtc.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\System.Net.NameResolution.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\System.Net.NetworkInformation.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\System.Net.Ping.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\System.Net.Primitives.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\System.Net.Requests.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\System.Net.Security.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\System.Net.Sockets.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\System.Net.WebHeaderCollection.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\System.Net.WebSockets.Client.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\System.Net.WebSockets.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\System.Numerics.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\System.Numerics.Vectors.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\System.ObjectModel.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\System.Reflection.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\System.Reflection.Emit.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\System.Reflection.Emit.ILGeneration.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\System.Reflection.Emit.Lightweight.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\System.Reflection.Extensions.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\System.Reflection.Primitives.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\System.Resources.Reader.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\System.Resources.ResourceManager.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\System.Resources.Writer.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\System.Runtime.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\System.Runtime.Extensions.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\System.Runtime.Handles.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\System.Runtime.InteropServices.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\System.Runtime.Numerics.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\System.Runtime.Serialization.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\System.Runtime.Serialization.Formatters.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\System.Runtime.Serialization.Json.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\System.Runtime.Serialization.Primitives.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\System.Runtime.Serialization.Xml.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\System.Security.Claims.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\System.Security.Cryptography.Algorithms.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\System.Security.Cryptography.Csp.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\System.Security.Cryptography.Encoding.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\System.Security.Cryptography.Primitives.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\System.Security.Cryptography.X509Certificates.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\System.Security.Principal.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\System.Security.SecureString.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\System.ServiceModel.Duplex.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\System.ServiceModel.Http.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\System.ServiceModel.NetTcp.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\System.ServiceModel.Primitives.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\System.ServiceModel.Security.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\System.Text.Encoding.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\System.Text.Encoding.Extensions.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\System.Text.RegularExpressions.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\System.Threading.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\System.Threading.Overlapped.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\System.Threading.Tasks.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\System.Threading.Tasks.Parallel.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\System.Threading.Thread.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\System.Threading.ThreadPool.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\System.Threading.Timer.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\System.ValueTuple.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\System.Xml.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\System.Xml.Linq.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\System.Xml.ReaderWriter.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\System.Xml.XDocument.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\System.Xml.XmlDocument.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\System.Xml.XmlSerializer.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\System.Xml.XPath.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\System.Xml.XPath.XDocument.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\Unity.Rider.Editor.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\Unity.TextMeshPro.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\Unity.TextMeshPro.Editor.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\Unity.Timeline.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\Unity.Timeline.Editor.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\Unity.VisualStudio.Editor.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\Unity.VSCode.Editor.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEditor.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEditor.UI.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEngine.AccessibilityModule.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEngine.AIModule.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEngine.AndroidJNIModule.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEngine.AnimationModule.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEngine.ARModule.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEngine.AssetBundleModule.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEngine.AudioModule.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEngine.ClothModule.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEngine.ClusterInputModule.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEngine.ClusterRendererModule.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEngine.CoreModule.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEngine.CrashReportingModule.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEngine.DirectorModule.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEngine.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEngine.DSPGraphModule.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEngine.GameCenterModule.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEngine.GridModule.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEngine.HotReloadModule.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEngine.ImageConversionModule.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEngine.IMGUIModule.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEngine.InputLegacyModule.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEngine.InputModule.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEngine.JSONSerializeModule.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEngine.LocalizationModule.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEngine.ParticleSystemModule.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEngine.PerformanceReportingModule.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEngine.Physics2DModule.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEngine.PhysicsModule.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEngine.ProfilerModule.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEngine.ScreenCaptureModule.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEngine.SharedInternalsModule.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEngine.SpriteMaskModule.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEngine.SpriteShapeModule.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEngine.StreamingModule.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEngine.SubstanceModule.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEngine.SubsystemsModule.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEngine.TerrainModule.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEngine.TextCoreModule.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEngine.TextRenderingModule.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEngine.TilemapModule.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEngine.TLSModule.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEngine.UI.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEngine.UIElementsModule.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEngine.UIElementsNativeModule.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEngine.UIModule.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEngine.UmbraModule.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEngine.UNETModule.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEngine.UnityConnectModule.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEngine.UnityTestProtocolModule.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEngine.UnityWebRequestModule.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEngine.VehiclesModule.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEngine.VFXModule.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEngine.VideoModule.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEngine.VirtualTexturingModule.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEngine.VRModule.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEngine.WindModule.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEngine.XRModule.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\Unity.CompilationPipeline.Common.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\Unity.Cecil.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\Unity.SerializationLogic.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\ExCSS.Unity.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\Unity.Legacy.NRefactory.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEngine.TestRunner.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEditor.TestRunner.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\nunit.framework.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\Unity.CecilTools.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\LeapMotion.LeapCSharp.pdb
+P:\SMIStim\SMIStim\Temp\Bin\Debug\LeapMotion.pdb
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEngine.xml
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEngine.AIModule.xml
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEngine.ARModule.xml
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEngine.AccessibilityModule.xml
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEngine.AndroidJNIModule.xml
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEngine.AnimationModule.xml
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEngine.AssetBundleModule.xml
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEngine.AudioModule.xml
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEngine.ClothModule.xml
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEngine.ClusterInputModule.xml
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEngine.ClusterRendererModule.xml
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEngine.CoreModule.xml
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEngine.CrashReportingModule.xml
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEngine.DSPGraphModule.xml
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEngine.DirectorModule.xml
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEngine.GameCenterModule.xml
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEngine.GridModule.xml
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEngine.HotReloadModule.xml
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEngine.IMGUIModule.xml
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEngine.ImageConversionModule.xml
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEngine.InputModule.xml
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEngine.InputLegacyModule.xml
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEngine.JSONSerializeModule.xml
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEngine.LocalizationModule.xml
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEngine.ParticleSystemModule.xml
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEngine.PerformanceReportingModule.xml
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEngine.PhysicsModule.xml
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEngine.Physics2DModule.xml
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEngine.ProfilerModule.xml
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEngine.ScreenCaptureModule.xml
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEngine.SharedInternalsModule.xml
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEngine.SpriteMaskModule.xml
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEngine.SpriteShapeModule.xml
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEngine.StreamingModule.xml
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEngine.SubstanceModule.xml
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEngine.SubsystemsModule.xml
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEngine.TLSModule.xml
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEngine.TerrainModule.xml
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEngine.TextCoreModule.xml
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEngine.TextRenderingModule.xml
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEngine.TilemapModule.xml
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEngine.UIModule.xml
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEngine.UIElementsModule.xml
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEngine.UIElementsNativeModule.xml
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEngine.UNETModule.xml
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEngine.UmbraModule.xml
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEngine.UnityConnectModule.xml
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEngine.UnityTestProtocolModule.xml
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEngine.UnityWebRequestModule.xml
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEngine.VFXModule.xml
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEngine.VRModule.xml
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEngine.VehiclesModule.xml
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEngine.VideoModule.xml
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEngine.VirtualTexturingModule.xml
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEngine.WindModule.xml
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEngine.XRModule.xml
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEditor.xml
+P:\SMIStim\SMIStim\Temp\Bin\Debug\Unity.Timeline.Editor.pdb
+P:\SMIStim\SMIStim\Temp\Bin\Debug\Unity.VSCode.Editor.pdb
+P:\SMIStim\SMIStim\Temp\Bin\Debug\Unity.TextMeshPro.Editor.pdb
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEngine.UI.pdb
+P:\SMIStim\SMIStim\Temp\Bin\Debug\Unity.Timeline.pdb
+P:\SMIStim\SMIStim\Temp\Bin\Debug\Unity.Rider.Editor.pdb
+P:\SMIStim\SMIStim\Temp\Bin\Debug\Unity.VisualStudio.Editor.pdb
+P:\SMIStim\SMIStim\Temp\Bin\Debug\Unity.TextMeshPro.pdb
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEditor.UI.pdb
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEngine.TestRunner.pdb
+P:\SMIStim\SMIStim\Temp\Bin\Debug\UnityEditor.TestRunner.pdb
+P:\SMIStim\SMIStim\Temp\Bin\Debug\nunit.framework.pdb
+P:\SMIStim\SMIStim\Temp\Bin\Debug\nunit.framework.xml
+P:\SMIStim\SMIStim\obj\Debug\Assembly-CSharp-firstpass.csprojAssemblyReference.cache
+P:\SMIStim\SMIStim\obj\Debug\Assembly-CSharp-firstpass.csproj.CoreCompileInputs.cache
+P:\SMIStim\SMIStim\obj\Debug\Assembly-CSharp-firstpass.csproj.CopyComplete
+P:\SMIStim\SMIStim\obj\Debug\Assembly-CSharp-firstpass.dll
+P:\SMIStim\SMIStim\obj\Debug\Assembly-CSharp-firstpass.pdb
+P:\SMIStim\SMIStim\Temp\Bin\Debug\Unity.Subsystem.Registration.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\Unity.XR.ARFoundation.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\Unity.XR.ARFoundation.Editor.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\Unity.XR.ARSubsystems.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\Unity.XR.ARSubsystems.Editor.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\Unity.InternalAPIEditorBridge.005.dll
+P:\SMIStim\SMIStim\Temp\Bin\Debug\Unity.Subsystem.Registration.pdb
+P:\SMIStim\SMIStim\Temp\Bin\Debug\Unity.XR.ARSubsystems.pdb
+P:\SMIStim\SMIStim\Temp\Bin\Debug\Unity.XR.ARSubsystems.Editor.pdb
+P:\SMIStim\SMIStim\Temp\Bin\Debug\Unity.XR.ARFoundation.Editor.pdb
+P:\SMIStim\SMIStim\Temp\Bin\Debug\Unity.XR.ARFoundation.pdb
+P:\SMIStim\SMIStim\Temp\Bin\Debug\Unity.InternalAPIEditorBridge.005.pdb
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\Assembly-CSharp-firstpass.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\Assembly-CSharp-firstpass.pdb
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\Microsoft.CSharp.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\Microsoft.Win32.Primitives.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\mscorlib.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\netstandard.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\System.AppContext.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\System.Collections.Concurrent.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\System.Collections.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\System.Collections.NonGeneric.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\System.Collections.Specialized.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\System.ComponentModel.Annotations.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\System.ComponentModel.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\System.ComponentModel.EventBasedAsync.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\System.ComponentModel.Primitives.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\System.ComponentModel.TypeConverter.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\System.Console.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\System.Core.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\System.Data.Common.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\System.Data.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\System.Diagnostics.Contracts.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\System.Diagnostics.Debug.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\System.Diagnostics.FileVersionInfo.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\System.Diagnostics.Process.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\System.Diagnostics.StackTrace.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\System.Diagnostics.Tools.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\System.Diagnostics.TraceSource.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\System.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\System.Drawing.Primitives.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\System.Dynamic.Runtime.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\System.Globalization.Calendars.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\System.Globalization.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\System.Globalization.Extensions.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\System.IO.Compression.ZipFile.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\System.IO.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\System.IO.FileSystem.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\System.IO.FileSystem.DriveInfo.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\System.IO.FileSystem.Primitives.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\System.IO.FileSystem.Watcher.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\System.IO.IsolatedStorage.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\System.IO.MemoryMappedFiles.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\System.IO.Pipes.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\System.IO.UnmanagedMemoryStream.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\System.Linq.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\System.Linq.Expressions.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\System.Linq.Parallel.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\System.Linq.Queryable.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\System.Net.Http.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\System.Net.Http.Rtc.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\System.Net.NameResolution.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\System.Net.NetworkInformation.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\System.Net.Ping.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\System.Net.Primitives.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\System.Net.Requests.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\System.Net.Security.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\System.Net.Sockets.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\System.Net.WebHeaderCollection.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\System.Net.WebSockets.Client.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\System.Net.WebSockets.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\System.Numerics.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\System.Numerics.Vectors.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\System.ObjectModel.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\System.Reflection.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\System.Reflection.Emit.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\System.Reflection.Emit.ILGeneration.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\System.Reflection.Emit.Lightweight.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\System.Reflection.Extensions.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\System.Reflection.Primitives.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\System.Resources.Reader.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\System.Resources.ResourceManager.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\System.Resources.Writer.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\System.Runtime.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\System.Runtime.Extensions.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\System.Runtime.Handles.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\System.Runtime.InteropServices.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\System.Runtime.Numerics.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\System.Runtime.Serialization.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\System.Runtime.Serialization.Formatters.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\System.Runtime.Serialization.Json.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\System.Runtime.Serialization.Primitives.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\System.Runtime.Serialization.Xml.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\System.Security.Claims.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\System.Security.Cryptography.Algorithms.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\System.Security.Cryptography.Csp.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\System.Security.Cryptography.Encoding.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\System.Security.Cryptography.Primitives.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\System.Security.Cryptography.X509Certificates.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\System.Security.Principal.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\System.Security.SecureString.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\System.ServiceModel.Duplex.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\System.ServiceModel.Http.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\System.ServiceModel.NetTcp.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\System.ServiceModel.Primitives.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\System.ServiceModel.Security.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\System.Text.Encoding.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\System.Text.Encoding.Extensions.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\System.Text.RegularExpressions.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\System.Threading.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\System.Threading.Overlapped.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\System.Threading.Tasks.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\System.Threading.Tasks.Parallel.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\System.Threading.Thread.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\System.Threading.ThreadPool.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\System.Threading.Timer.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\System.ValueTuple.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\System.Xml.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\System.Xml.Linq.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\System.Xml.ReaderWriter.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\System.Xml.XDocument.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\System.Xml.XmlDocument.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\System.Xml.XmlSerializer.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\System.Xml.XPath.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\System.Xml.XPath.XDocument.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\Unity.Rider.Editor.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\Unity.Subsystem.Registration.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\Unity.TextMeshPro.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\Unity.TextMeshPro.Editor.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\Unity.Timeline.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\Unity.Timeline.Editor.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\Unity.VisualStudio.Editor.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\Unity.VSCode.Editor.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\Unity.XR.ARFoundation.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\Unity.XR.ARFoundation.Editor.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\Unity.XR.ARSubsystems.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\Unity.XR.ARSubsystems.Editor.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEditor.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEditor.UI.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.AccessibilityModule.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.AIModule.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.AndroidJNIModule.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.AnimationModule.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.ARModule.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.AssetBundleModule.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.AudioModule.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.ClothModule.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.ClusterInputModule.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.ClusterRendererModule.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.CoreModule.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.CrashReportingModule.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.DirectorModule.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.DSPGraphModule.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.GameCenterModule.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.GridModule.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.HotReloadModule.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.ImageConversionModule.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.IMGUIModule.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.InputLegacyModule.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.InputModule.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.JSONSerializeModule.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.LocalizationModule.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.ParticleSystemModule.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.PerformanceReportingModule.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.Physics2DModule.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.PhysicsModule.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.ProfilerModule.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.ScreenCaptureModule.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.SharedInternalsModule.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.SpriteMaskModule.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.SpriteShapeModule.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.StreamingModule.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.SubstanceModule.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.SubsystemsModule.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.TerrainModule.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.TextCoreModule.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.TextRenderingModule.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.TilemapModule.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.TLSModule.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.UI.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.UIElementsModule.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.UIElementsNativeModule.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.UIModule.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.UmbraModule.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.UNETModule.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.UnityConnectModule.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.UnityTestProtocolModule.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.UnityWebRequestModule.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.VehiclesModule.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.VFXModule.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.VideoModule.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.VirtualTexturingModule.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.VRModule.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.WindModule.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.XRModule.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\Unity.CompilationPipeline.Common.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\Unity.Cecil.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\Unity.SerializationLogic.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\ExCSS.Unity.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\Unity.Legacy.NRefactory.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\Unity.InternalAPIEditorBridge.005.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.TestRunner.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEditor.TestRunner.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\nunit.framework.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\Unity.CecilTools.dll
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\LeapMotion.LeapCSharp.pdb
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\LeapMotion.pdb
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.xml
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.AIModule.xml
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.ARModule.xml
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.AccessibilityModule.xml
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.AndroidJNIModule.xml
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.AnimationModule.xml
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.AssetBundleModule.xml
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.AudioModule.xml
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.ClothModule.xml
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.ClusterInputModule.xml
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.ClusterRendererModule.xml
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.CoreModule.xml
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.CrashReportingModule.xml
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.DSPGraphModule.xml
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.DirectorModule.xml
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.GameCenterModule.xml
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.GridModule.xml
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.HotReloadModule.xml
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.IMGUIModule.xml
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.ImageConversionModule.xml
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.InputModule.xml
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.InputLegacyModule.xml
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.JSONSerializeModule.xml
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.LocalizationModule.xml
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.ParticleSystemModule.xml
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.PerformanceReportingModule.xml
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.PhysicsModule.xml
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.Physics2DModule.xml
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.ProfilerModule.xml
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.ScreenCaptureModule.xml
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.SharedInternalsModule.xml
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.SpriteMaskModule.xml
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.SpriteShapeModule.xml
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.StreamingModule.xml
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.SubstanceModule.xml
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.SubsystemsModule.xml
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.TLSModule.xml
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.TerrainModule.xml
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.TextCoreModule.xml
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.TextRenderingModule.xml
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.TilemapModule.xml
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.UIModule.xml
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.UIElementsModule.xml
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.UIElementsNativeModule.xml
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.UNETModule.xml
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.UmbraModule.xml
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.UnityConnectModule.xml
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.UnityTestProtocolModule.xml
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.UnityWebRequestModule.xml
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.VFXModule.xml
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.VRModule.xml
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.VehiclesModule.xml
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.VideoModule.xml
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.VirtualTexturingModule.xml
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.WindModule.xml
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.XRModule.xml
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEditor.xml
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\Unity.Timeline.Editor.pdb
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\Unity.Subsystem.Registration.pdb
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\Unity.VSCode.Editor.pdb
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\Unity.XR.ARSubsystems.pdb
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\Unity.XR.ARSubsystems.Editor.pdb
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\Unity.XR.ARFoundation.Editor.pdb
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\Unity.TextMeshPro.Editor.pdb
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\Unity.XR.ARFoundation.pdb
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.UI.pdb
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\Unity.Timeline.pdb
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\Unity.Rider.Editor.pdb
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\Unity.VisualStudio.Editor.pdb
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\Unity.TextMeshPro.pdb
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEditor.UI.pdb
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\Unity.InternalAPIEditorBridge.005.pdb
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.TestRunner.pdb
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\UnityEditor.TestRunner.pdb
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\nunit.framework.pdb
+P:\6thsense\Unity project\SMIS\SMIS\Temp\Bin\Debug\nunit.framework.xml
+P:\6thsense\Unity project\SMIS\SMIS\obj\Debug\Assembly-CSharp-firstpass.csprojAssemblyReference.cache
+P:\6thsense\Unity project\SMIS\SMIS\obj\Debug\Assembly-CSharp-firstpass.csproj.CoreCompileInputs.cache
+P:\6thsense\Unity project\SMIS\SMIS\obj\Debug\Assembly-CSharp-firstpass.csproj.CopyComplete
+P:\6thsense\Unity project\SMIS\SMIS\obj\Debug\Assembly-CSharp-firstpass.dll
+P:\6thsense\Unity project\SMIS\SMIS\obj\Debug\Assembly-CSharp-firstpass.pdb
+P:\6thsense\Project\SMIS\SMIS\obj\Debug\Assembly-CSharp-firstpass.csproj.CoreCompileInputs.cache
+P:\6thsense\Project\SMIS\SMIS\obj\Debug\Assembly-CSharp-firstpass.csprojAssemblyReference.cache
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\Assembly-CSharp-firstpass.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\Assembly-CSharp-firstpass.pdb
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\Microsoft.CSharp.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\Microsoft.Win32.Primitives.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\mscorlib.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\netstandard.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\System.AppContext.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\System.Collections.Concurrent.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\System.Collections.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\System.Collections.NonGeneric.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\System.Collections.Specialized.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\System.ComponentModel.Annotations.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\System.ComponentModel.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\System.ComponentModel.EventBasedAsync.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\System.ComponentModel.Primitives.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\System.ComponentModel.TypeConverter.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\System.Console.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\System.Core.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\System.Data.Common.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\System.Data.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\System.Diagnostics.Contracts.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\System.Diagnostics.Debug.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\System.Diagnostics.FileVersionInfo.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\System.Diagnostics.Process.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\System.Diagnostics.StackTrace.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\System.Diagnostics.Tools.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\System.Diagnostics.TraceSource.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\System.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\System.Drawing.Primitives.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\System.Dynamic.Runtime.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\System.Globalization.Calendars.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\System.Globalization.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\System.Globalization.Extensions.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\System.IO.Compression.ZipFile.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\System.IO.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\System.IO.FileSystem.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\System.IO.FileSystem.DriveInfo.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\System.IO.FileSystem.Primitives.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\System.IO.FileSystem.Watcher.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\System.IO.IsolatedStorage.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\System.IO.MemoryMappedFiles.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\System.IO.Pipes.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\System.IO.UnmanagedMemoryStream.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\System.Linq.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\System.Linq.Expressions.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\System.Linq.Parallel.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\System.Linq.Queryable.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\System.Net.Http.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\System.Net.Http.Rtc.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\System.Net.NameResolution.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\System.Net.NetworkInformation.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\System.Net.Ping.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\System.Net.Primitives.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\System.Net.Requests.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\System.Net.Security.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\System.Net.Sockets.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\System.Net.WebHeaderCollection.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\System.Net.WebSockets.Client.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\System.Net.WebSockets.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\System.Numerics.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\System.Numerics.Vectors.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\System.ObjectModel.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\System.Reflection.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\System.Reflection.Emit.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\System.Reflection.Emit.ILGeneration.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\System.Reflection.Emit.Lightweight.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\System.Reflection.Extensions.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\System.Reflection.Primitives.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\System.Resources.Reader.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\System.Resources.ResourceManager.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\System.Resources.Writer.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\System.Runtime.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\System.Runtime.Extensions.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\System.Runtime.Handles.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\System.Runtime.InteropServices.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\System.Runtime.Numerics.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\System.Runtime.Serialization.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\System.Runtime.Serialization.Formatters.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\System.Runtime.Serialization.Json.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\System.Runtime.Serialization.Primitives.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\System.Runtime.Serialization.Xml.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\System.Security.Claims.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\System.Security.Cryptography.Algorithms.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\System.Security.Cryptography.Csp.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\System.Security.Cryptography.Encoding.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\System.Security.Cryptography.Primitives.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\System.Security.Cryptography.X509Certificates.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\System.Security.Principal.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\System.Security.SecureString.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\System.ServiceModel.Duplex.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\System.ServiceModel.Http.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\System.ServiceModel.NetTcp.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\System.ServiceModel.Primitives.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\System.ServiceModel.Security.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\System.Text.Encoding.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\System.Text.Encoding.Extensions.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\System.Text.RegularExpressions.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\System.Threading.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\System.Threading.Overlapped.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\System.Threading.Tasks.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\System.Threading.Tasks.Parallel.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\System.Threading.Thread.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\System.Threading.ThreadPool.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\System.Threading.Timer.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\System.ValueTuple.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\System.Xml.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\System.Xml.Linq.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\System.Xml.ReaderWriter.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\System.Xml.XDocument.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\System.Xml.XmlDocument.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\System.Xml.XmlSerializer.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\System.Xml.XPath.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\System.Xml.XPath.XDocument.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\Unity.Rider.Editor.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\Unity.Subsystem.Registration.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\Unity.TextMeshPro.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\Unity.TextMeshPro.Editor.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\Unity.Timeline.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\Unity.Timeline.Editor.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\Unity.VisualStudio.Editor.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\Unity.VSCode.Editor.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\Unity.XR.ARFoundation.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\Unity.XR.ARFoundation.Editor.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\Unity.XR.ARSubsystems.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\Unity.XR.ARSubsystems.Editor.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEditor.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEditor.UI.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.AccessibilityModule.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.AIModule.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.AndroidJNIModule.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.AnimationModule.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.ARModule.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.AssetBundleModule.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.AudioModule.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.ClothModule.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.ClusterInputModule.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.ClusterRendererModule.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.CoreModule.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.CrashReportingModule.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.DirectorModule.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.DSPGraphModule.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.GameCenterModule.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.GridModule.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.HotReloadModule.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.ImageConversionModule.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.IMGUIModule.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.InputLegacyModule.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.InputModule.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.JSONSerializeModule.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.LocalizationModule.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.ParticleSystemModule.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.PerformanceReportingModule.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.Physics2DModule.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.PhysicsModule.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.ProfilerModule.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.ScreenCaptureModule.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.SharedInternalsModule.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.SpriteMaskModule.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.SpriteShapeModule.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.StreamingModule.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.SubstanceModule.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.SubsystemsModule.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.TerrainModule.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.TextCoreModule.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.TextRenderingModule.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.TilemapModule.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.TLSModule.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.UI.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.UIElementsModule.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.UIElementsNativeModule.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.UIModule.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.UmbraModule.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.UNETModule.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.UnityConnectModule.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.UnityTestProtocolModule.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.UnityWebRequestModule.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.VehiclesModule.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.VFXModule.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.VideoModule.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.VirtualTexturingModule.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.VRModule.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.WindModule.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.XRModule.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\Unity.CompilationPipeline.Common.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\Unity.Cecil.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\Unity.SerializationLogic.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\ExCSS.Unity.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\Unity.Legacy.NRefactory.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\Unity.InternalAPIEditorBridge.005.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.TestRunner.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEditor.TestRunner.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\nunit.framework.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\Unity.CecilTools.dll
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\LeapMotion.LeapCSharp.pdb
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\LeapMotion.pdb
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.xml
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.AIModule.xml
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.ARModule.xml
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.AccessibilityModule.xml
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.AndroidJNIModule.xml
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.AnimationModule.xml
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.AssetBundleModule.xml
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.AudioModule.xml
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.ClothModule.xml
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.ClusterInputModule.xml
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.ClusterRendererModule.xml
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.CoreModule.xml
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.CrashReportingModule.xml
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.DSPGraphModule.xml
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.DirectorModule.xml
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.GameCenterModule.xml
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.GridModule.xml
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.HotReloadModule.xml
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.IMGUIModule.xml
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.ImageConversionModule.xml
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.InputModule.xml
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.InputLegacyModule.xml
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.JSONSerializeModule.xml
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.LocalizationModule.xml
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.ParticleSystemModule.xml
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.PerformanceReportingModule.xml
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.PhysicsModule.xml
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.Physics2DModule.xml
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.ProfilerModule.xml
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.ScreenCaptureModule.xml
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.SharedInternalsModule.xml
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.SpriteMaskModule.xml
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.SpriteShapeModule.xml
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.StreamingModule.xml
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.SubstanceModule.xml
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.SubsystemsModule.xml
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.TLSModule.xml
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.TerrainModule.xml
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.TextCoreModule.xml
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.TextRenderingModule.xml
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.TilemapModule.xml
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.UIModule.xml
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.UIElementsModule.xml
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.UIElementsNativeModule.xml
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.UNETModule.xml
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.UmbraModule.xml
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.UnityConnectModule.xml
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.UnityTestProtocolModule.xml
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.UnityWebRequestModule.xml
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.VFXModule.xml
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.VRModule.xml
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.VehiclesModule.xml
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.VideoModule.xml
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.VirtualTexturingModule.xml
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.WindModule.xml
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.XRModule.xml
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEditor.xml
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\Unity.Timeline.Editor.pdb
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\Unity.Subsystem.Registration.pdb
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\Unity.VSCode.Editor.pdb
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\Unity.XR.ARSubsystems.pdb
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\Unity.XR.ARSubsystems.Editor.pdb
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\Unity.XR.ARFoundation.Editor.pdb
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\Unity.TextMeshPro.Editor.pdb
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\Unity.XR.ARFoundation.pdb
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.UI.pdb
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\Unity.Timeline.pdb
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\Unity.Rider.Editor.pdb
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\Unity.VisualStudio.Editor.pdb
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\Unity.TextMeshPro.pdb
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEditor.UI.pdb
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\Unity.InternalAPIEditorBridge.005.pdb
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEngine.TestRunner.pdb
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\UnityEditor.TestRunner.pdb
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\nunit.framework.pdb
+P:\6thsense\Project\SMIS\SMIS\Temp\Bin\Debug\nunit.framework.xml
+P:\6thsense\Project\SMIS\SMIS\obj\Debug\Assembly-CSharp-firstpass.csproj.CopyComplete
+P:\6thsense\Project\SMIS\SMIS\obj\Debug\Assembly-CSharp-firstpass.dll
+P:\6thsense\Project\SMIS\SMIS\obj\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\Microsoft.CSharp.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\mscorlib.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\netstandard.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\System.AppContext.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\System.Collections.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\System.ComponentModel.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\System.Console.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\System.Core.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\System.Data.Common.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\System.Data.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\System.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\System.Globalization.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\System.IO.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\System.IO.Pipes.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\System.Linq.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\System.Net.Http.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\System.Net.Http.Rtc.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\System.Net.Ping.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\System.Net.Primitives.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\System.Net.Requests.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\System.Net.Security.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\System.Net.Sockets.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\System.Numerics.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\System.ObjectModel.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\System.Reflection.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\System.Reflection.Emit.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\System.Reflection.Emit.ILGeneration.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\System.Reflection.Emit.Lightweight.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\System.Resources.Reader.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\System.Resources.Writer.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\System.Runtime.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\System.Runtime.Serialization.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\System.Security.Claims.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\System.Security.Principal.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\System.Security.SecureString.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\System.ServiceModel.Duplex.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\System.ServiceModel.Http.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\System.ServiceModel.NetTcp.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\System.ServiceModel.Primitives.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\System.ServiceModel.Security.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\System.Text.Encoding.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\System.Threading.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\System.Threading.Thread.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\System.Threading.Timer.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\System.ValueTuple.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\System.Xml.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\System.Xml.Linq.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\System.Xml.XPath.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\Unity.Rider.Editor.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\Unity.Subsystem.Registration.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\Unity.TextMeshPro.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\Unity.TextMeshPro.Editor.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\Unity.Timeline.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\Unity.Timeline.Editor.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\Unity.VisualStudio.Editor.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\Unity.VSCode.Editor.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\Unity.XR.ARFoundation.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\Unity.XR.ARFoundation.Editor.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\Unity.XR.ARSubsystems.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\Unity.XR.ARSubsystems.Editor.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEditor.UI.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEngine.AIModule.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEngine.AndroidJNIModule.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEngine.ARModule.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEngine.AudioModule.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEngine.ClothModule.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEngine.DSPGraphModule.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEngine.GridModule.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEngine.InputLegacyModule.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEngine.InputModule.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEngine.SubsystemsModule.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEngine.TextCoreModule.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEngine.TLSModule.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEngine.UIElementsNativeModule.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEngine.UIModule.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEngine.UNETModule.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEngine.VFXModule.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEngine.VideoModule.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEngine.VirtualTexturingModule.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEngine.VRModule.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEngine.WindModule.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEngine.XRModule.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\Unity.CompilationPipeline.Common.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\Unity.Cecil.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\Unity.InternalAPIEditorBridge.005.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEditor.TestRunner.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\nunit.framework.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\LeapMotion.LeapCSharp.pdb
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\LeapMotion.pdb
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\Unity.Timeline.Editor.pdb
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\Unity.Subsystem.Registration.pdb
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\Unity.VSCode.Editor.pdb
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\Unity.XR.ARSubsystems.pdb
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\Unity.XR.ARSubsystems.Editor.pdb
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\Unity.XR.ARFoundation.Editor.pdb
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\Unity.TextMeshPro.Editor.pdb
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\Unity.XR.ARFoundation.pdb
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEngine.UI.pdb
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\Unity.Timeline.pdb
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\Unity.Rider.Editor.pdb
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\Unity.VisualStudio.Editor.pdb
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\Unity.TextMeshPro.pdb
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEditor.UI.pdb
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEngine.AIModule.xml
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEngine.ARModule.xml
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEngine.AndroidJNIModule.xml
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEngine.AudioModule.xml
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEngine.ClothModule.xml
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEngine.CoreModule.xml
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEngine.DSPGraphModule.xml
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEngine.GridModule.xml
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEngine.InputModule.xml
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEngine.InputLegacyModule.xml
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEngine.LocalizationModule.xml
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEngine.ProfilerModule.xml
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEngine.StreamingModule.xml
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEngine.SubsystemsModule.xml
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEngine.TLSModule.xml
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEngine.TextCoreModule.xml
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEngine.UIModule.xml
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEngine.UIElementsNativeModule.xml
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEngine.UNETModule.xml
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEngine.UmbraModule.xml
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.xml
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEngine.VFXModule.xml
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEngine.VRModule.xml
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEngine.VideoModule.xml
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEngine.VirtualTexturingModule.xml
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEngine.WindModule.xml
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEngine.XRModule.xml
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\Unity.InternalAPIEditorBridge.005.pdb
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEngine.TestRunner.pdb
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\UnityEditor.TestRunner.pdb
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\nunit.framework.pdb
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\Temp\bin\Debug\nunit.framework.xml
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\obj\Debug\Assembly-CSharp-firstpass.csproj.AssemblyReference.cache
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\obj\Debug\Assembly-CSharp-firstpass.csproj.CoreCompileInputs.cache
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\obj\Debug\Assembly-CSharp-firstpass.csproj.CopyComplete
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\obj\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\obj\Debug\Assembly-CSharp-firstpass.pdb

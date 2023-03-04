@@ -1,0 +1,45 @@
+
+implanted vs not implanted
+
+amplitude detection:
+lowest threshold amplitude
+
+amplitude discrimination:
+
+
+frequency discrimination:
+poor above 100Hz due to overlap of Meissner and Pacinian corpuscle range
+Harmonics of complex waveforms
+
+temporal discrimination:
+
+
+temporal gap detection:
+not affected by freq
+
+
+coating? mass?
+mass impacting vibration
+healing durations
+evolution of sensing over time
+Why those freqs?
+sensory substitution click
+orientation/position of implanted magnets
+1400W amplifier!?
+
+
+positives: implanted -> noticably more sensitive to amplitude
+
+
+A number of participants from both groups, including the
+author, completed this experiment using a synesthetic like ability; in that
+rather than just perceiving the vibrotactile stimuli, some commented that
+they could hear the frequency change. The following quotes are from parti-
+cipants while undergoing the experiment (N.B. these were entirely
+unprompted):
+“That’s weird I’m sort of hearing it” - I4RM
+“It kinda feels like when a motor goes buzz or hmmm” - S5RM
+“I turn the signal into sound” - I1LI.
+While further discussion of these comments is omitted from this paper as it
+did not fall immediately within the context of the research, its inclusion in this
+section was thought to complement the quantifiable results.

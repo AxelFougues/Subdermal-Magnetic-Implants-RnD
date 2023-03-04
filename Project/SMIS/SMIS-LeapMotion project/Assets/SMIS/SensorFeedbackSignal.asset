@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 90b52fcf46472394782ccb0097226c82, type: 3}
+  m_Name: SensorFeedbackSignal
+  m_EditorClassIdentifier: 
+  masterVolume: 0
+  mainFrequency: 200
+  useSinusAudioWave: 1
+  sinusAudioWaveIntensity: 1
+  useSquareAudioWave: 0
+  squareAudioWaveIntensity: 0
+  useSawAudioWave: 0
+  sawAudioWaveIntensity: 0
+  useAmplitudeModulation: 0
+  amplitudeModulationOscillatorFrequency: 1
+  useFrequencyModulation: 0
+  frequencyModulationOscillatorFrequency: 1
+  frequencyModulationOscillatorIntensity: 10
+  amplitudeModulationRangeOut: 0
+  frequencyModulationRangeOut: 0

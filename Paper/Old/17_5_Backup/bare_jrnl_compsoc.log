@@ -1,0 +1,367 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.3) (preloaded format=pdflatex 2021.4.29)  29 APR 2021 13:21
+entering extended mode
+**./bare_jrnl_compsoc.tex
+(bare_jrnl_compsoc.tex
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-02-18>
+(C:\Users\Az\AppData\Local\Programs\MiKTeX\tex/latex/ieeetran\IEEEtran.cls
+Document Class: IEEEtran 2015/08/26 V1.8b by Michael Shell
+-- See the "IEEEtran_HOWTO" manual for usage information.
+-- http://www.michaelshell.org/tex/ieeetran/
+\@IEEEtrantmpdimenA=\dimen138
+\@IEEEtrantmpdimenB=\dimen139
+\@IEEEtrantmpdimenC=\dimen140
+\@IEEEtrantmpcountA=\count179
+\@IEEEtrantmpcountB=\count180
+\@IEEEtrantmpcountC=\count181
+\@IEEEtrantmptoksA=\toks15
+LaTeX Font Info:    Trying to load font information for OT1+ppl on input line 5
+03.
+(C:\Users\Az\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1ppl.fd
+File: ot1ppl.fd 2001/06/04 font definitions for OT1/ppl.
+)
+-- Using IEEE Computer Society mode.
+-- Using 8.5in x 11in (letter) paper.
+-- Using PDF output.
+\@IEEEnormalsizeunitybaselineskip=\dimen141
+-- This is a 10 point document.
+\CLASSINFOnormalsizebaselineskip=\dimen142
+\CLASSINFOnormalsizeunitybaselineskip=\dimen143
+\IEEEnormaljot=\dimen144
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <5.01874> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <5.01874> not available
+(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <7.02625> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <7.02625> not available
+(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <8.03> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <8.03> not available
+(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <9.03374> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <9.03374> not available
+(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <9.53561> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <9.53561> not available
+(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <11.04124> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <11.04124> not available
+
+(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <12.045> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <12.045> not available
+(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <17.06374> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <17.06374> not available
+
+(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <20.075> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <20.075> not available
+(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <24.09> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <24.09> not available
+(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 1090.
+
+\IEEEquantizedlength=\dimen145
+\IEEEquantizedlengthdiff=\dimen146
+\IEEEquantizedtextheightdiff=\dimen147
+\IEEEilabelindentA=\dimen148
+\IEEEilabelindentB=\dimen149
+\IEEEilabelindent=\dimen150
+\IEEEelabelindent=\dimen151
+\IEEEdlabelindent=\dimen152
+\IEEElabelindent=\dimen153
+\IEEEiednormlabelsep=\dimen154
+\IEEEiedmathlabelsep=\dimen155
+\IEEEiedtopsep=\skip47
+\c@section=\count182
+\c@subsection=\count183
+\c@subsubsection=\count184
+\c@paragraph=\count185
+\c@IEEEsubequation=\count186
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\c@figure=\count187
+\c@table=\count188
+\@IEEEeqnnumcols=\count189
+\@IEEEeqncolcnt=\count190
+\@IEEEsubeqnnumrollback=\count191
+\@IEEEquantizeheightA=\dimen156
+\@IEEEquantizeheightB=\dimen157
+\@IEEEquantizeheightC=\dimen158
+\@IEEEquantizeprevdepth=\dimen159
+\@IEEEquantizemultiple=\count192
+\@IEEEquantizeboxA=\box47
+\@IEEEtmpitemindent=\dimen160
+\IEEEPARstartletwidth=\dimen161
+\c@IEEEbiography=\count193
+\@IEEEtranrubishbin=\box48
+) (C:\Users\Az\AppData\Local\Programs\MiKTeX\tex/latex/cite\cite.sty
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 332.
+Package: cite 2015/02/27  v 5.5
+)
+(C:\Users\Az\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\Az\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(C:\Users\Az\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\Az\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(C:\Users\Az\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+(C:\Users\Az\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen162
+\Gin@req@width=\dimen163
+) (C:\Users\Az\AppData\Local\Programs\MiKTeX\tex/latex/latex-tools\array.sty
+Package: array 2020/10/01 v2.5c Tabular extension package (FMi)
+\col@sep=\dimen164
+\ar@mcellbox=\box49
+\extrarowheight=\dimen165
+\NC@list=\toks17
+\extratabsurround=\skip50
+\backup@length=\skip51
+\ar@cellbox=\box50
+)
+(C:\Users\Az\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex
+.def
+File: l3backend-pdftex.def 2021-03-18 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count194
+\l__pdf_internal_box=\box51
+) (bare_jrnl_compsoc.aux)
+\openout1 = `bare_jrnl_compsoc.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 369.
+LaTeX Font Info:    ... okay on input line 369.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 369.
+LaTeX Font Info:    ... okay on input line 369.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 369.
+LaTeX Font Info:    ... okay on input line 369.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 369.
+LaTeX Font Info:    ... okay on input line 369.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 369.
+LaTeX Font Info:    ... okay on input line 369.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 369.
+LaTeX Font Info:    ... okay on input line 369.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 369.
+LaTeX Font Info:    ... okay on input line 369.
+
+-- Lines per column: 61 (exact).
+(C:\Users\Az\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count195
+\scratchdimen=\dimen166
+\scratchbox=\box52
+\nofMPsegments=\count196
+\nofMParguments=\count197
+\everyMPshowfont=\toks18
+\MPscratchCnt=\count198
+\MPscratchDim=\dimen167
+\MPnumerator=\count199
+\makeMPintoPDFobject=\count266
+\everyMPtoPDFconversion=\toks19
+)
+(C:\Users\Az\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base
+.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\Az\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+LaTeX Font Info:    Trying to load font information for OT1+phv on input line 4
+80.
+ (C:\Users\Az\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1phv.fd
+File: ot1phv.fd 2020/03/25 scalable font definitions for OT1/phv.
+)
+LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <11.04124> not available
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 480.
+LaTeX Font Info:    Calculating math sizes for size <8.03> on input line 480.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8.03> on input line 480.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5.62097> on input line 480.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <4.015> on input line 480.
+LaTeX Font Info:    Calculating math sizes for size <11.04124> on input line 48
+0.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <11.04124> on input line 480.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7.72884> on input line 480.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5.52061> on input line 480.
+LaTeX Font Info:    Trying to load font information for U+pzd on input line 480
+.
+
+(C:\Users\Az\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\upzd.fd
+File: upzd.fd 2001/06/04 font definitions for U/pzd.
+)
+LaTeX Font Info:    Calculating math sizes for size <9.53561> on input line 536
+.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9.53561> on input line 536.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6.6749> on input line 536.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <4.7678> on input line 536.
+ [1{C:/Users/Az/AppData/Local/MiKTeX/pdftex/config/pdftex.map}
+
+
+]
+LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <9.53561> not available
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 580.
+<figs//FullHandXrayNeg.jpg, id=15, 1126.2075pt x 1606.0pt>
+File: figs//FullHandXrayNeg.jpg Graphic file (type jpg)
+<use figs//FullHandXrayNeg.jpg>
+Package pdftex.def Info: figs//FullHandXrayNeg.jpg  used on input line 603.
+(pdftex.def)             Requested size: 180.67499pt x 257.6269pt.
+<figs//FingersXrayNeg.jpg, id=16, 702.625pt x 879.285pt>
+File: figs//FingersXrayNeg.jpg Graphic file (type jpg)
+<use figs//FingersXrayNeg.jpg>
+Package pdftex.def Info: figs//FingersXrayNeg.jpg  used on input line 610.
+(pdftex.def)             Requested size: 180.67499pt x 226.09976pt.
+ [2]
+<figs//SineSensitivity.png, id=20, 602.25pt x 372.39125pt>
+File: figs//SineSensitivity.png Graphic file (type png)
+<use figs//SineSensitivity.png>
+Package pdftex.def Info: figs//SineSensitivity.png  used on input line 649.
+(pdftex.def)             Requested size: 180.67499pt x 111.71823pt.
+ [3 <./figs//FullHandXrayNeg.jpg> <./figs//FingersXrayNeg.jpg>]
+<figs//SquareSensitivity.png, id=26, 602.25pt x 372.39125pt>
+File: figs//SquareSensitivity.png Graphic file (type png)
+<use figs//SquareSensitivity.png>
+Package pdftex.def Info: figs//SquareSensitivity.png  used on input line 656.
+(pdftex.def)             Requested size: 180.67499pt x 111.71823pt.
+<figs//SawSensitivity.png, id=27, 602.25pt x 372.39125pt>
+File: figs//SawSensitivity.png Graphic file (type png)
+<use figs//SawSensitivity.png>
+Package pdftex.def Info: figs//SawSensitivity.png  used on input line 663.
+(pdftex.def)             Requested size: 180.67499pt x 111.71823pt.
+
+Overfull \hbox (1.9929pt too wide) in paragraph at lines 687--687
+[]|\OT1/ppl/m/n/9.53561 C| 
+ []
+
+
+Overfull \hbox (2.11687pt too wide) in paragraph at lines 689--689
+[]|\OT1/ppl/m/n/9.53561 V| 
+ []
+
+
+Overfull \hbox (1.05844pt too wide) in paragraph at lines 691--691
+[]|\OT1/ppl/m/n/9.53561 B| 
+ []
+
+
+Overfull \hbox (1.07741pt too wide) in paragraph at lines 693--693
+[]|\OT1/ppl/m/n/9.53561 T| 
+ []
+
+
+Overfull \hbox (1.47739pt too wide) in paragraph at lines 695--695
+[]|\OT1/ppl/m/n/9.53561 Deformation| 
+ []
+
+
+Overfull \hbox (2.61275pt too wide) in paragraph at lines 695--695
+[]|\OT1/ppl/m/n/9.53561 D| 
+ []
+
+
+Overfull \hbox (0.99162pt too wide) in paragraph at lines 698--698
+[]|\OT1/ppl/m/n/9.53561 P| 
+ []
+
+
+Overfull \hbox (3.9741pt too wide) in paragraph at lines 683--701
+ [] 
+ []
+
+[4 <./figs//SineSensitivity.png> <./figs//SquareSensitivity.png> <./figs//SawSe
+nsitivity.png>]
+<figs//RelativeImplantPosition.png, id=34, 997.7275pt x 1003.75pt>
+File: figs//RelativeImplantPosition.png Graphic file (type png)
+<use figs//RelativeImplantPosition.png>
+Package pdftex.def Info: figs//RelativeImplantPosition.png  used on input line 
+742.
+(pdftex.def)             Requested size: 180.67499pt x 181.75464pt.
+<figs//AirCoredConfiguration.jpg, id=35, 1810.765pt x 723.70375pt>
+File: figs//AirCoredConfiguration.jpg Graphic file (type jpg)
+<use figs//AirCoredConfiguration.jpg>
+Package pdftex.def Info: figs//AirCoredConfiguration.jpg  used on input line 75
+1.
+(pdftex.def)             Requested size: 180.67499pt x 72.20897pt.
+<figs//CoredConfiguration.jpg, id=36, 1810.765pt x 723.70375pt>
+File: figs//CoredConfiguration.jpg Graphic file (type jpg)
+<use figs//CoredConfiguration.jpg>
+Package pdftex.def Info: figs//CoredConfiguration.jpg  used on input line 758.
+(pdftex.def)             Requested size: 180.67499pt x 72.20897pt.
+ [5 <./figs//RelativeImplantPosition.png> <./figs//AirCoredConfiguration.jpg>] 
+[6 <./figs//CoredConfiguration.jpg>] (bare_jrnl_compsoc.bbl
+Overfull \hbox (7.34247pt too wide) in paragraph at lines 81--86
+\OT1/ppl/m/n/8.03 https://play.google.com/store/books/details?id=y07bDwAAQBAJ 
+ []
+
+) [7] (bare_jrnl_compsoc.aux)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 2392 strings out of 479321
+ 41963 string characters out of 2858014
+ 343641 words of memory out of 3000000
+ 19846 multiletter control sequences out of 15000+600000
+ 449430 words of font info for 112 fonts, out of 8000000 for 9000
+ 1144 hyphenation exceptions out of 8191
+ 68i,8n,74p,846b,377s stack positions out of 5000i,500n,10000p,200000b,80000s
+{C:/Users/Az/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/Us
+ers/Az/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb>
+<C:/Users/Az/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10
+.pfb><C:/Users/Az/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
+cmr7.pfb><C:/Users/Az/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts
+/cm/cmsy10.pfb><C:/Users/Az/AppData/Local/Programs/MiKTeX/fonts/type1/public/am
+sfonts/cm/cmsy7.pfb><C:/Users/Az/AppData/Local/Programs/MiKTeX/fonts/type1/publ
+ic/amsfonts/cm/cmsy8.pfb><C:/Users/Az/AppData/Local/Programs/MiKTeX/fonts/type1
+/urw/helvetic/uhvb8a.pfb><C:/Users/Az/AppData/Local/Programs/MiKTeX/fonts/type1
+/urw/helvetic/uhvr8a.pfb><C:/Users/Az/AppData/Local/Programs/MiKTeX/fonts/type1
+/urw/helvetic/uhvro8a.pfb><C:/Users/Az/AppData/Local/Programs/MiKTeX/fonts/type
+1/urw/palatino/uplr8a.pfb><C:/Users/Az/AppData/Local/Programs/MiKTeX/fonts/type
+1/urw/palatino/uplri8a.pfb><C:/Users/Az/AppData/Local/Programs/MiKTeX/fonts/typ
+e1/urw/zapfding/uzdr.pfb>
+Output written on bare_jrnl_compsoc.pdf (7 pages, 1412113 bytes).
+PDF statistics:
+ 88 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 41 words of extra memory for PDF output out of 10000 (max. 10000000)
+

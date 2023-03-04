@@ -1,0 +1,13 @@
+
+Selection of the implant:
+-omited importance of mass
+-omited importance of coating/magnet ratio
+Implantation:
+-omited very long and variable time of encapsulation that can affect sensing (the author IH was implanted less than a year before the paper was published... but "As there was little difference
+between the two implantees – results are given here merely for
+the first recipient – JH.", interesting)
+
+
+Proposed applications:
+Ultrasonic navigation
+Morse communication
