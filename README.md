@@ -3,10 +3,12 @@ A collection of work on SMIs over the years including data, research, hardware a
 **Disclaimer: Nothing here is maintained or has been in years, some projects are unfinished and might even not run in newer environments. This repo is ment to be inspiration for future SMI tech. A ressource to look through when exploring SMIs. Please use my mistakes to anticipate yours.**
 
 ## Academic work
+**Content of this this repo**
+
 Here you will find some resources extracted from a 6 month research work at CNRS IT lab LIRMM in Montpellier. This opportinity was given to me after presenting my home-research to Abderrahmane Kheddar (Haptics researcher). This work aims at better understanding the mechanics of "sensing", the feeling induced by magnetic fields to a person equiped with fingertip subdermal magnets.
 In turn understanding and figuring out how to control this phenomenon allowed me to produce some interesting spatial haptic rendering as well as some texture and mechanical rendering such as pressing virtual buttons and distinguishing virtual surfaces.
 There was an attempt at publishing such research but a combination of deadlines, life events, lack of test subjects other than myself and the difficulty of dealing with academic "ethical standards" resulted in no publication and many subjects left open to explore.
-**Content of this this repo**
+
 
 
 
