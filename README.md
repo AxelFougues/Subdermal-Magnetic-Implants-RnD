@@ -37,3 +37,15 @@ Unity project on github: https://github.com/AxelFougues/BitSense-Toolkit-and-Tim
 #### An augmented reality level visualizer for a third party observer
 Unity project on github: https://github.com/AxelFougues/Visualizer-for-BitSense-Time-Paradox-levels
  
+ 
+ ## Additional resources
+
+Self published ebook "Getting to know the magnet inside you: A guide to magnetic implants" :
+https://play.google.com/store/books/details?id=y07bDwAAQBAJ
+
+Videos (SMIs, BitSense and Haptics):
+https://youtube.com/playlist?list=PLYKu4vn6TpCEsDx0OuiTX4lcnOOtgskgy
+
+Facebook community started in the same process where I shared some pictures and updates:
+https://www.facebook.com/groups/BiohackingFrance
+
