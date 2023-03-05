@@ -19,7 +19,9 @@ A secondary goal is to discover and explore new uses for sensing by providing a 
 
 Project page: https://www.behance.net/gallery/122871797/SMIS-Haptics-VR-and-Biohacking
 
-Unity project on github: https://www.behance.net/gallery/123152077/SMIS-CUBE
+Device page: https://www.behance.net/gallery/123152077/SMIS-CUBE
+
+Unity project on Github : https://github.com/AxelFougues/SMIS-App
 
 Wiki: https://github.com/AxelFougues/SMIS-device-design/wiki
 
