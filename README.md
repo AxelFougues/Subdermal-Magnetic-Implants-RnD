@@ -23,13 +23,16 @@ Device page: https://www.behance.net/gallery/123152077/SMIS-CUBE
 
 Unity project on Github : https://github.com/AxelFougues/SMIS-App
 
+Device design on Github : https://github.com/AxelFougues/SMIS-device-design
+
 Wiki: https://github.com/AxelFougues/SMIS-device-design/wiki
 
 ### A mobile app as a core
-https://github.com/AxelFougues/SMIS-App
+The mobile app was implemented in unity and uses the devices audio channels to produce the signal for the devices as the sensing range and audio range of frequencies are similar. The app is meant to contain standardised tests of amplitude sensitivity, frequency sensityvity and more using various signal types. These procedures are user friendly and produce sharable results that can be compared with other results thanks to the standardization of the tests. The app also contains a signal generator for self-experimentation. Finally the app was meant to be a platform for a plethora of interactive uses of SMIs, demonstrating AR applications, mini games and message encoding.
 
 ### A suite of tiny handheld devices
-https://github.com/AxelFougues/SMIS-device-design
+I envisioned a selection of devices all following similar guidelines of portability, practicality and field consistency. They would use bluetooth to receive the app's output and have a small onboard amplification and coils. The design that got all the way through prototyping was the SMIS cube. A matchbox sized device with two independently controlled coils for then index finger and middle finger. For prototyping I used 3D printed casings, off the shelf amplification and axial coils. The design worked exactly as expected although the low quality components made it unreliable long term.
+Other device ideas involved a credit card format of the cube that fits much better in the user's pocket. Some versions were applied to the back of a mobile device and were wire to reduce latency for AR applications. In some the finger coils were external and in the shape of rings. This meant that the device could be attatched to the users hand giving full freedom of movement. These later designs were inspired by the following BitSense project and went on to be used in following research for their practicality.
 
 ## BitSense Time Paradox
 BitSense is in a way the ancestor to SMIS and was built with the premise of producing an induced SMI "sensing" maze game. Exploring the limitations of spatial hand/implant tracking and the rendering of spatial information to the implants through magnetic "sensing" signals. A POC of the game as well as a Toolkit were made in this project.
