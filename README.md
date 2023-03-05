@@ -36,13 +36,12 @@ Other device ideas involved a credit card format of the cube that fits much bett
 
 ## BitSense Time Paradox
 BitSense is in a way the ancestor to SMIS and was built with the premise of producing an induced SMI "sensing" maze game. Exploring the limitations of spatial hand/implant tracking and the rendering of spatial information to the implants through magnetic "sensing" signals. A POC of the game as well as a Toolkit were made in this project.
+
 Project paage: https://www.behance.net/gallery/106134293/BitSense-Biohacking-a-sixth-digital-sense
 
-#### The Toolkit + Game
-Unity project on github: https://github.com/AxelFougues/BitSense-Toolkit-and-Time-Paradox
+The Toolkit + Game, Unity project on github: https://github.com/AxelFougues/BitSense-Toolkit-and-Time-Paradox
 
-#### An augmented reality level visualizer for a third party observer
-Unity project on github: https://github.com/AxelFougues/Visualizer-for-BitSense-Time-Paradox-levels
+An augmented reality level visualizer for a third party observer, Unity project on github: https://github.com/AxelFougues/Visualizer-for-BitSense-Time-Paradox-levels
  
  
  ## Additional resources
