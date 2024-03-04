@@ -1,4 +1,11 @@
 # Subdermal-Magnetic-Implants-RnD
+
+This is an archive of past work. If you're interested in what's happening now check these out:
+
+- https://github.com/AxelFougues/ZINC-The-Cyborg-Dashboard
+- https://github.com/AxelFougues/Lodestone-biomagnet-tools
+
+
 A collection of work on SMIs over the years including data, research, hardware and software development.
 **Disclaimer: Nothing here is maintained or has been in years, some projects are unfinished and might even not run in newer environments. This repo is ment to be inspiration for future SMI tech. A ressource to look through when exploring SMIs. Please use my mistakes to anticipate yours.**
 
