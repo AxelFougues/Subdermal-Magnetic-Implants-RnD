@@ -1,9 +1,12 @@
 # Current work
 This is an archive of past work. If you're interested in what's happening now check these out:
 
-An multitool app for NFC and magnetic implants, including haptics, analytics, gamification and experimentation:
+A multitool app for NFC and magnetic implants, including haptics, analytics, gamification and experimentation:
+
 - ZINC-The-Cyborg-Dashboard: https://github.com/AxelFougues/ZINC-The-Cyborg-Dashboard
+
 A suite of magnet implant stimulator devices made for everyday use and convenience. Used in conjunction with ZINC for exciting use-cases:
+
 - https://github.com/AxelFougues/Lodestone-biomagnet-tools
 
 # Past work
