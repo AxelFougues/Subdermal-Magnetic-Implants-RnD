@@ -7,7 +7,7 @@ A multitool app for NFC and magnetic implants, including haptics, analytics, gam
 
 A suite of magnet implant stimulator devices made for everyday use and convenience. Used in conjunction with ZINC for exciting use-cases:
 
-- https://github.com/AxelFougues/Lodestone-biomagnet-tools
+- Lodestones: https://github.com/AxelFougues/Lodestone-biomagnet-tools
 
 # Past work
 
