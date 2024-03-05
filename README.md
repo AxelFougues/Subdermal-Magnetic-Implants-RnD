@@ -1,10 +1,12 @@
-# Subdermal-Magnetic-Implants-RnD
-
+# Current work
 This is an archive of past work. If you're interested in what's happening now check these out:
 
-- https://github.com/AxelFougues/ZINC-The-Cyborg-Dashboard
+An multitool app for NFC and magnetic implants, including haptics, analytics, gamification and experimentation:
+- ZINC-The-Cyborg-Dashboard: https://github.com/AxelFougues/ZINC-The-Cyborg-Dashboard
+A suite of magnet implant stimulator devices made for everyday use and convenience. Used in conjunction with ZINC for exciting use-cases:
 - https://github.com/AxelFougues/Lodestone-biomagnet-tools
 
+# Past work
 
 A collection of work on SMIs over the years including data, research, hardware and software development.
 **Disclaimer: Nothing here is maintained or has been in years, some projects are unfinished and might even not run in newer environments. This repo is ment to be inspiration for future SMI tech. A ressource to look through when exploring SMIs. Please use my mistakes to anticipate yours.**
