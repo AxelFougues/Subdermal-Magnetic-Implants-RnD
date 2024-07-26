@@ -1,15 +1,21 @@
 # Current work
 This is an archive of past work. If you're interested in what's happening now check these out:
 
+## ZINC
 A multitool app for NFC and magnetic implants, including haptics, analytics, gamification and experimentation:
 
 - ZINC-The-Cyborg-Dashboard: https://github.com/AxelFougues/ZINC-The-Cyborg-Dashboard
 
+## Lodestones
 A suite of magnet implant stimulator devices made for everyday use and convenience. Used in conjunction with ZINC for exciting use-cases:
 
 - Lodestones: https://github.com/AxelFougues/Lodestone-biomagnet-tools
 - Dangerous Things, Lodestone PICO for sale announcement: https://forum.dangerousthings.com/t/lodestone-pico-now-available/21441/6
 - Dangerous Things, Lodestone PICO product info post: https://forum.dangerousthings.com/t/lodestone-pico/21440
+
+## Desktop AR/VR haptic feedback demo using a Leap Motion 2
+
+- https://github.com/AxelFougues/Biomagnet-Leap-Motion-Haptic-Engine
 
 # Past work
 
