@@ -1208,3 +1208,13 @@ C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\obj\Debug\Assembly-CSh
 C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.CopyComplete
 C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\obj\Debug\Assembly-CSharp-Editor-firstpass.dll
 C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\obj\Debug\Assembly-CSharp-Editor-firstpass.pdb
+P:\Subdermal-Magnetic-Implants-RnD\Project\SMIS\SMIS-LeapMotion project\Temp\bin\Debug\Assembly-CSharp-Editor-firstpass.dll
+P:\Subdermal-Magnetic-Implants-RnD\Project\SMIS\SMIS-LeapMotion project\Temp\bin\Debug\Assembly-CSharp-Editor-firstpass.pdb
+P:\Subdermal-Magnetic-Implants-RnD\Project\SMIS\SMIS-LeapMotion project\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+P:\Subdermal-Magnetic-Implants-RnD\Project\SMIS\SMIS-LeapMotion project\Temp\bin\Debug\LeapMotion.pdb
+P:\Subdermal-Magnetic-Implants-RnD\Project\SMIS\SMIS-LeapMotion project\Temp\bin\Debug\LeapMotion.LeapCSharp.pdb
+P:\Subdermal-Magnetic-Implants-RnD\Project\SMIS\SMIS-LeapMotion project\obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+P:\Subdermal-Magnetic-Implants-RnD\Project\SMIS\SMIS-LeapMotion project\obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.CoreCompileInputs.cache
+P:\Subdermal-Magnetic-Implants-RnD\Project\SMIS\SMIS-LeapMotion project\obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.CopyComplete
+P:\Subdermal-Magnetic-Implants-RnD\Project\SMIS\SMIS-LeapMotion project\obj\Debug\Assembly-CSharp-Editor-firstpass.dll
+P:\Subdermal-Magnetic-Implants-RnD\Project\SMIS\SMIS-LeapMotion project\obj\Debug\Assembly-CSharp-Editor-firstpass.pdb

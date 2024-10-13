@@ -1064,3 +1064,9 @@ C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\obj\Debug\LeapMotion.L
 C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\obj\Debug\LeapMotion.LeapCSharp.csproj.CopyComplete
 C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\obj\Debug\LeapMotion.LeapCSharp.dll
 C:\Users\Axel\Documents\GitHub\6thsense\Project\SMIS\SMIS\obj\Debug\LeapMotion.LeapCSharp.pdb
+P:\Subdermal-Magnetic-Implants-RnD\Project\SMIS\SMIS-LeapMotion project\Temp\bin\Debug\LeapMotion.LeapCSharp.dll
+P:\Subdermal-Magnetic-Implants-RnD\Project\SMIS\SMIS-LeapMotion project\Temp\bin\Debug\LeapMotion.LeapCSharp.pdb
+P:\Subdermal-Magnetic-Implants-RnD\Project\SMIS\SMIS-LeapMotion project\obj\Debug\LeapMotion.LeapCSharp.csprojAssemblyReference.cache
+P:\Subdermal-Magnetic-Implants-RnD\Project\SMIS\SMIS-LeapMotion project\obj\Debug\LeapMotion.LeapCSharp.csproj.CoreCompileInputs.cache
+P:\Subdermal-Magnetic-Implants-RnD\Project\SMIS\SMIS-LeapMotion project\obj\Debug\LeapMotion.LeapCSharp.dll
+P:\Subdermal-Magnetic-Implants-RnD\Project\SMIS\SMIS-LeapMotion project\obj\Debug\LeapMotion.LeapCSharp.pdb
